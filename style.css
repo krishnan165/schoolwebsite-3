@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-color:aquamarine;
+}
+#im1{
+    width:800px;
+    padding-right:20px;
+}
+#swimmingpool{
+    padding-left:400px;
+   
+}
+body h1{
+    font-family: cursive;
+    font-size:40px;
+}
+.line{
+    height:7px;
+    background-color:black;
+    width:155px;
+    margin:8px auto;
+    border-radius:11111111px;
+}
+#Ground{
+    padding-left:400px;
+   
+}
+#Contact us{
+    padding-top:200px;
+}
+#logo{
+    height:250px;
+    width:170px;
+}
